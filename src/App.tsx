@@ -689,7 +689,7 @@ export default function App() {
             <p className="text-sm font-mono text-cyan-400 mb-6">Kaio Grativol Baldo — Desenvolvedor Full Stack Python</p>
 
             <div className="space-y-4 text-slate-300 text-sm leading-relaxed mb-8">
-              <p><strong>Contatos:</strong> (22) 98837-2344 | kaiobaldo@yahoo.com.br</p>
+              <p><strong>Contatos:</strong> | kaiobaldo@yahoo.com.br</p>
               <p><strong>Formação:</strong> Desenvolvedor Backend Python Full Stack (EBAC, 2026) | Técnico em Eletrotécnica (ECID).</p>
               <p><strong>Stack Principal:</strong> Python, Django, FastAPI, React, TypeScript, PostgreSQL, Redis, Celery, Docker, WebSockets, Pandas, NumPy, Git.</p>
               <p><strong>Idiomas:</strong> Inglês Avançado | Espanhol Avançado.</p>
