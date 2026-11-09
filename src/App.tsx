@@ -268,7 +268,7 @@ export default function App() {
             <a href="https://www.linkedin.com/in/kaiogbaldo/" target="_blank" rel="noreferrer" className="p-2 text-slate-400 hover:text-cyan-400 hover:bg-slate-900 rounded-lg transition-all" title="LinkedIn">
               <Linkedin size={18} />
             </a>
-            <a href="https://wa.me/5522988372344" target="_blank" rel="noreferrer" className="p-2 text-slate-400 hover:text-emerald-400 hover:bg-slate-900 rounded-lg transition-all" title="WhatsApp">
+            <a href="https://wa.me/550" target="_blank" rel="noreferrer" className="p-2 text-slate-400 hover:text-emerald-400 hover:bg-slate-900 rounded-lg transition-all" title="WhatsApp">
               <MessageSquare size={18} />
             </a>
 
@@ -659,7 +659,7 @@ export default function App() {
             </button>
 
             <a
-              href="https://wa.me/5522988372344"
+              href="https://wa.me/550"
               target="_blank"
               rel="noreferrer"
               className="px-6 py-4 rounded-xl bg-emerald-950 hover:bg-emerald-900 text-emerald-400 border border-emerald-800/60 font-bold transition-all flex items-center gap-2"
